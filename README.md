@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronDevlopper
 - 👀 I’m interested in web programation
-- 🌱 I’m currently learning PHP JS SQL
+- 🌱 I’m currently learning PHP JS SQL Python React_Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me githubContact.samuel@ovadya.com
 
